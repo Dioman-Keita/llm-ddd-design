@@ -35,6 +35,7 @@ This directory is NOT intended for runtime code.
 
 Agents MUST create and maintain the following structure:
 
+```
 .llm/
 ├── README.md
 │ - Explains the purpose of the `.llm/` directory
@@ -92,6 +93,7 @@ Agents MUST create and maintain the following structure:
 ├── commit_template.md
 ├── pr_template.md
 └── feature_template.md
+```
 
 ---
 
